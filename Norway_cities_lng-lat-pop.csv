@@ -1,1 +1,162 @@
-
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Oslo,Oslo,59.91,10.75,Norway,NO,NOR,Oslo,primary,693494,1578324706
+Bergen,Bergen,60.39,5.32,Norway,NO,NOR,Hordaland,admin,257087,1578465701
+Trondheim,Trondheim,63.44,10.40,Norway,NO,NOR,Sør-Trøndelag,minor,183378,1578633461
+Stavanger,Stavanger,58.97,5.73,Norway,NO,NOR,Rogaland,admin,129300,1578801684
+Kristiansand,Kristiansand,58.15,8.00,Norway,NO,NOR,Vest-Agder,minor,112588,1578642977
+Drammen,Drammen,59.74,10.20,Norway,NO,NOR,Buskerud,minor,109416,1578937195
+Skien,Skien,59.21,9.55,Norway,NO,NOR,Telemark,admin,55144,1578807356
+Bodø,Bodo,67.28,14.38,Norway,NO,NOR,Nordland,admin,52560,1578023501
+Arendal,Arendal,58.47,8.77,Norway,NO,NOR,Aust-Agder,admin,45065,1578533046
+Tromsø,Tromso,69.65,18.96,Norway,NO,NOR,Troms,admin,38980,1578188822
+Molde,Molde,62.73,7.18,Norway,NO,NOR,Møre og Romsdal,admin,31870,1578540727
+Hamar,Hamar,60.79,11.07,Norway,NO,NOR,Hedmark,admin,27947,1578111692
+Steinkjer,Steinkjer,64.01,11.49,Norway,NO,NOR,Nord-Trøndelag,admin,12985,1578642047
+Fredrikstad,Fredrikstad,59.22,10.95,Norway,NO,NOR,Østfold,minor,83193,1578625656
+Sandefjord,Sandefjord,59.13,10.22,Norway,NO,NOR,Vestfold,,64345,1578389701
+Asker,Asker,59.83,10.44,Norway,NO,NOR,Oslo,minor,61523,1578961890
+Nordre Fåle,Nordre Fale,59.75,10.87,Norway,NO,NOR,Akershus,,60034,1578002015
+Sandnes,Sandnes,58.85,5.73,Norway,NO,NOR,Rogaland,minor,58694,1578525190
+Tønsberg,Tonsberg,59.30,10.42,Norway,NO,NOR,Vestfold,minor,57026,1578658467
+Sarpsborg,Sarpsborg,59.28,11.11,Norway,NO,NOR,Østfold,minor,54678,1578097769
+Ålesund,Alesund,62.47,6.15,Norway,NO,NOR,Møre og Romsdal,minor,52163,1578050516
+Moss,Moss,59.43,10.66,Norway,NO,NOR,Østfold,minor,49668,1578386435
+Lørenskog,Lorenskog,59.90,10.96,Norway,NO,NOR,Akershus,minor,42740,1578059629
+Haugesund,Haugesund,59.41,5.28,Norway,NO,NOR,Rogaland,minor,37323,1578805813
+Porsgrunn,Porsgrunn,59.14,9.66,Norway,NO,NOR,Telemark,minor,36526,1578150916
+Ringsaker,Ringsaker,61.02,10.80,Norway,NO,NOR,Hedmark,,34897,1578611812
+Halden,Halden,59.13,11.48,Norway,NO,NOR,Østfold,minor,31387,1578441478
+Ski,Ski,59.74,10.89,Norway,NO,NOR,Akershus,minor,30843,1578776384
+Askøy,Askoy,60.47,5.15,Norway,NO,NOR,Hordaland,,29594,1578869945
+Lillehammer,Lillehammer,61.11,10.47,Norway,NO,NOR,Oppland,minor,28493,1578724478
+Oppegård,Oppegard,59.79,10.79,Norway,NO,NOR,Akershus,,27394,1578023739
+Sola,Sola,58.88,5.63,Norway,NO,NOR,Rogaland,minor,27457,1578642286
+Kongsberg,Kongsberg,59.67,9.65,Norway,NO,NOR,Buskerud,minor,27694,1578035378
+Lier,Lier,59.87,10.21,Norway,NO,NOR,Buskerud,minor,27118,1578874426
+Eidsvoll,Eidsvoll,60.35,11.25,Norway,NO,NOR,Akershus,minor,26031,1578516896
+Nedre Eiker,Nedre Eiker,59.76,10.03,Norway,NO,NOR,Buskerud,,24963,1578585975
+Sand,Sand,59.13,10.23,Norway,NO,NOR,Vestfold,,24898,1578001129
+Harstad,Harstad,68.80,16.54,Norway,NO,NOR,Troms,minor,24738,1578844884
+Larvik,Larvik,59.05,10.03,Norway,NO,NOR,Vestfold,,24647,1578938550
+Borre,Borre,59.38,10.45,Norway,NO,NOR,Vestfold,,24272,1578001449
+Nittedal,Nittedal,60.07,10.87,Norway,NO,NOR,Akershus,minor,24454,1578894489
+Stjørdal,Stjordal,63.48,11.17,Norway,NO,NOR,Nord-Trøndelag,minor,24283,1578420419
+Røyken,Royken,59.73,10.43,Norway,NO,NOR,Buskerud,minor,22635,1578092486
+Sem,Sem,59.28,10.33,Norway,NO,NOR,Vestfold,,21948,1578156342
+Nøtterøy,Notteroy,59.20,10.41,Norway,NO,NOR,Vestfold,,21621,1578114950
+Elverum,Elverum,60.88,11.57,Norway,NO,NOR,Hedmark,minor,21292,1578144824
+Stange,Stange,60.65,11.37,Norway,NO,NOR,Hedmark,minor,21072,1578696237
+Horten,Horten,59.42,10.48,Norway,NO,NOR,Vestfold,,20504,1578000515
+Ås,As,59.66,10.78,Norway,NO,NOR,Akershus,minor,20439,1578160935
+Gjøvik,Gjovik,60.80,10.69,Norway,NO,NOR,Oppland,minor,20589,1578892271
+Nesoddtangen,Nesoddtangen,59.81,10.66,Norway,NO,NOR,Akershus,minor,19805,1578569253
+Kleppe,Kleppe,58.78,5.60,Norway,NO,NOR,Rogaland,minor,19848,1578765733
+Os,Os,60.23,5.48,Norway,NO,NOR,Hordaland,minor,19742,1578224963
+Time,Time,58.72,5.77,Norway,NO,NOR,Rogaland,,19106,1578972107
+Stord,Stord,59.81,5.47,Norway,NO,NOR,Hordaland,minor,18861,1578682657
+Mo i Rana,Mo i Rana,66.32,14.17,Norway,NO,NOR,Nordland,minor,18899,1578067925
+Kristiansund,Kristiansund,63.11,7.73,Norway,NO,NOR,Møre og Romsdal,minor,18273,1578717143
+Vestby,Vestby,59.58,10.73,Norway,NO,NOR,Akershus,,18290,1578197278
+Sørum,Sorum,59.99,11.24,Norway,NO,NOR,Akershus,,18263,1578429477
+Kosvik,Kosvik,58.15,8.07,Norway,NO,NOR,Vest-Agder,,17981,1578433332
+Kongsvinger,Kongsvinger,60.19,12.00,Norway,NO,NOR,Hedmark,minor,17851,1578097529
+Rygge,Rygge,59.37,10.71,Norway,NO,NOR,Østfold,minor,16145,1578903321
+Frogn,Frogn,59.70,10.66,Norway,NO,NOR,Akershus,,15953,1578001728
+Voss,Voss,60.70,6.42,Norway,NO,NOR,Hordaland,minor,15787,1578803539
+Lindås,Lindas,60.62,5.33,Norway,NO,NOR,Hordaland,,15607,1578074399
+Mandal,Mandal,58.03,7.48,Norway,NO,NOR,Vest-Agder,minor,15529,1578061147
+Alta,Alta,69.97,23.27,Norway,NO,NOR,Finnmark,minor,15342,1578308187
+Verdal,Verdal,63.79,11.48,Norway,NO,NOR,Nord-Trøndelag,minor,14986,1578893544
+Vennesla,Vennesla,58.31,7.86,Norway,NO,NOR,Vest-Agder,minor,14935,1578283395
+Askim,Askim,59.58,11.16,Norway,NO,NOR,Østfold,minor,14488,1578155881
+Nannestad,Nannestad,60.25,10.95,Norway,NO,NOR,Akershus,minor,14637,1578500041
+Malvik,Malvik,63.37,10.75,Norway,NO,NOR,Sør-Trøndelag,,14334,1578696010
+Narvik,Narvik,68.44,17.43,Norway,NO,NOR,Nordland,minor,14148,1578744025
+Bamble,Bamble,59.02,9.56,Norway,NO,NOR,Telemark,,14014,1578030718
+Gran,Gran,60.44,10.50,Norway,NO,NOR,Oppland,,13611,1578913505
+Drøbak,Drobak,59.67,10.63,Norway,NO,NOR,Akershus,,13393,1578855474
+Grimstad,Grimstad,58.34,8.59,Norway,NO,NOR,Aust-Agder,minor,13304,1578703293
+Strand,Strand,59.06,6.03,Norway,NO,NOR,Rogaland,,13070,1578528180
+Notodden,Notodden,59.56,9.27,Norway,NO,NOR,Telemark,minor,12994,1578892380
+Bømlo,Bomlo,59.78,5.22,Norway,NO,NOR,Hordaland,,11953,1578231177
+Sogndal,Sogndal,61.23,7.10,Norway,NO,NOR,Sogn og Fjordane,minor,11938,1578132527
+Lommedalen,Lommedalen,59.95,10.47,Norway,NO,NOR,Oslo,,11200,1578002364
+Randaberg,Randaberg,59.00,5.62,Norway,NO,NOR,Rogaland,minor,11315,1578935358
+Stokke,Stokke,59.24,10.27,Norway,NO,NOR,Vestfold,,11657,1578002148
+Lenvik,Lenvik,69.38,17.97,Norway,NO,NOR,Troms,,11618,1578586323
+Egersund,Egersund,58.45,6.01,Norway,NO,NOR,Rogaland,minor,11433,1578432421
+Eidsberg,Eidsberg,59.54,11.36,Norway,NO,NOR,Østfold,,11396,1578040271
+Søgne,Sogne,58.09,7.77,Norway,NO,NOR,Vest-Agder,minor,11260,1578522567
+Tysvær,Tysvaer,59.36,5.54,Norway,NO,NOR,Rogaland,,11178,1578779090
+Enebakk,Enebakk,59.76,11.14,Norway,NO,NOR,Akershus,,11065,1578782892
+Ørsta,Orsta,62.20,6.13,Norway,NO,NOR,Møre og Romsdal,minor,10830,1578873602
+Volda,Volda,62.15,6.07,Norway,NO,NOR,Møre og Romsdal,minor,10781,1578903172
+Sortland,Sortland,68.70,15.41,Norway,NO,NOR,Nordland,minor,10514,1578250336
+Heum,Heum,59.06,10.04,Norway,NO,NOR,Vestfold,,10449,1578756875
+Lyngdal,Lyngdal,58.13,7.08,Norway,NO,NOR,Vest-Agder,minor,10464,1578630529
+Kragerø,Kragero,58.89,9.35,Norway,NO,NOR,Telemark,minor,10416,1578172535
+Levanger,Levanger,63.75,11.30,Norway,NO,NOR,Nord-Trøndelag,minor,10333,1578010304
+Førde,Forde,61.45,5.86,Norway,NO,NOR,Sogn og Fjordane,minor,10339,1578914241
+Sande,Sande,59.59,10.21,Norway,NO,NOR,Vestfold,,9904,1578002266
+Farsund,Farsund,58.08,6.75,Norway,NO,NOR,Vest-Agder,minor,9645,1578528519
+Fauske,Fauske,67.26,15.39,Norway,NO,NOR,Nordland,minor,9640,1578904094
+Haram,Haram,62.57,6.37,Norway,NO,NOR,Møre og Romsdal,,9200,1578868176
+Lunner,Lunner,60.25,10.67,Norway,NO,NOR,Oppland,,9062,1578195993
+Flekkefjord,Flekkefjord,58.33,6.67,Norway,NO,NOR,Vest-Agder,minor,9027,1578438399
+Florø,Floro,61.60,5.02,Norway,NO,NOR,Sogn og Fjordane,minor,8925,1578596650
+Ulstein,Ulstein,62.36,5.85,Norway,NO,NOR,Møre og Romsdal,,8575,1578619519
+Namsos,Namsos,64.47,11.49,Norway,NO,NOR,Nord-Trøndelag,minor,8471,1578576567
+Skaun,Skaun,63.28,10.06,Norway,NO,NOR,Sør-Trøndelag,,8367,1578825550
+Rakkestad,Rakkestad,59.37,11.42,Norway,NO,NOR,Østfold,minor,8222,1578031792
+Hokksund,Hokksund,59.77,9.91,Norway,NO,NOR,Buskerud,minor,8138,1578339904
+Hammerfest,Hammerfest,70.66,23.68,Norway,NO,NOR,Finnmark,minor,8073,1578368356
+Åkrehamn,Akrehamn,59.26,5.19,Norway,NO,NOR,Rogaland,,7873,1578208239
+Lillesand,Lillesand,58.25,8.38,Norway,NO,NOR,Aust-Agder,minor,7930,1578656800
+Meland,Meland,60.56,5.12,Norway,NO,NOR,Hordaland,,7812,1578232899
+Løten,Loten,60.83,11.39,Norway,NO,NOR,Hedmark,minor,7625,1578380533
+Råde,Rade,59.35,10.86,Norway,NO,NOR,Østfold,minor,7568,1578124710
+Sykkylven,Sykkylven,62.39,6.58,Norway,NO,NOR,Møre og Romsdal,minor,7596,1578956080
+Alstahaug,Alstahaug,65.96,12.57,Norway,NO,NOR,Nordland,,7394,1578600009
+Åsnes,Asnes,60.65,12.15,Norway,NO,NOR,Hedmark,,7227,1578246078
+Stryn,Stryn,61.84,6.86,Norway,NO,NOR,Sogn og Fjordane,minor,7118,1578858252
+Oppdal,Oppdal,62.57,9.60,Norway,NO,NOR,Sør-Trøndelag,minor,6981,1578849787
+Vestnes,Vestnes,62.58,7.02,Norway,NO,NOR,Møre og Romsdal,minor,6958,1578076851
+Sunndalsøra,Sunndalsora,62.61,8.63,Norway,NO,NOR,Møre og Romsdal,minor,6956,1578534979
+Jevnaker,Jevnaker,60.24,10.39,Norway,NO,NOR,Oppland,minor,6867,1578372169
+Risør,Risor,58.72,9.23,Norway,NO,NOR,Aust-Agder,minor,6762,1578561387
+Svelvik,Svelvik,59.61,10.40,Norway,NO,NOR,Vestfold,,6685,1578000775
+Rissa,Rissa,63.66,10.04,Norway,NO,NOR,Sør-Trøndelag,minor,6644,1578239109
+Trysil,Trysil,61.31,12.32,Norway,NO,NOR,Hedmark,minor,6580,1578166787
+Melhus,Melhus,63.29,10.28,Norway,NO,NOR,Sør-Trøndelag,minor,6517,1578189830
+Mesøy,Mesoy,66.79,13.68,Norway,NO,NOR,Nordland,,6247,1578714789
+Bø,Bo,59.46,9.03,Norway,NO,NOR,Telemark,minor,6101,1578828260
+Klæbu,Klaebu,63.28,10.51,Norway,NO,NOR,Sør-Trøndelag,minor,6067,1578201422
+Spydeberg,Spydeberg,59.62,11.08,Norway,NO,NOR,Østfold,minor,6042,1578595903
+Sandnessjøen,Sandnessjoen,66.02,12.63,Norway,NO,NOR,Nordland,minor,6052,1578514131
+Froland,Froland,58.58,8.57,Norway,NO,NOR,Aust-Agder,minor,6004,1578327983
+Andebu,Andebu,59.30,10.11,Norway,NO,NOR,Vestfold,,5937,1578001085
+Kvinesdal,Kvinesdal,58.34,7.02,Norway,NO,NOR,Vest-Agder,minor,5922,1578047466
+Vereide,Vereide,61.74,6.17,Norway,NO,NOR,Sogn og Fjordane,,5885,1578845165
+Surnadal,Surnadal,62.95,8.77,Norway,NO,NOR,Møre og Romsdal,minor,5872,1578658046
+Våler,Valer,59.47,10.92,Norway,NO,NOR,Østfold,minor,5805,1578761897
+Sveio,Sveio,59.57,5.36,Norway,NO,NOR,Hordaland,minor,5798,1578821046
+Stavern,Stavern,59.00,10.03,Norway,NO,NOR,Vestfold,,5773,1578995534
+Nord-Fron,Nord-Fron,61.60,9.75,Norway,NO,NOR,Oppland,,5705,1578656915
+Vadsø,Vadso,70.07,29.75,Norway,NO,NOR,Finnmark,minor,5642,1578863149
+Balsfjord,Balsfjord,69.30,19.20,Norway,NO,NOR,Troms,,5559,1578210608
+Hobøl,Hobol,59.59,10.95,Norway,NO,NOR,Østfold,minor,5382,1578211799
+Trøgstad,Trogstad,59.65,11.34,Norway,NO,NOR,Østfold,minor,5347,1578028723
+Frei,Frei,63.06,7.80,Norway,NO,NOR,Møre og Romsdal,,5274,1578639699
+Hareid,Hareid,62.36,6.00,Norway,NO,NOR,Møre og Romsdal,minor,5140,1578673971
+Austevoll,Austevoll,60.04,5.27,Norway,NO,NOR,Hordaland,,5276,1578262149
+Birkenes,Birkenes,58.45,8.23,Norway,NO,NOR,Aust-Agder,,5274,1578848241
+Hitra,Hitra,63.55,8.85,Norway,NO,NOR,Sør-Trøndelag,,5140,1578256856
+Øyer,Oyer,61.27,10.41,Norway,NO,NOR,Oppland,minor,5093,1578988875
+Sand,Sand,60.44,11.57,Norway,NO,NOR,Hedmark,,5038,1578403575
+Svolvær,Svolvaer,68.23,14.57,Norway,NO,NOR,Nordland,minor,4686,1578516140
+Finnsnes,Finnsnes,69.24,18.01,Norway,NO,NOR,Troms,minor,3907,1578015471
+Kirkenes,Kirkenes,69.73,30.05,Norway,NO,NOR,Finnmark,minor,3529,1578657312
+Rørvik,Rorvik,64.87,11.21,Norway,NO,NOR,Nord-Trøndelag,minor,2615,1578785320
+Kaupanger,Kaupanger,61.18,7.24,Norway,NO,NOR,Sogn og Fjordane,,1012,1578815332
+Holmestrand,Holmestrand,59.49,10.32,Norway,NO,NOR,Vestfold,,7514,1578081695
+Vossevangen,Vossevangen,60.63,6.44,Norway,NO,NOR,Hordaland,,5571,1578107030
